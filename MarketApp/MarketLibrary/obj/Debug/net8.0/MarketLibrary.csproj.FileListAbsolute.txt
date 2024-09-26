@@ -1,0 +1,53 @@
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.deps.json
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.dll
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.pdb
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.dll
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\refint\MarketLibrary.dll
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.pdb
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketLibrary\obj\Debug\net8.0\ref\MarketLibrary.dll
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.deps.json
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.dll
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.pdb
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfoInputs.cache
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfo.cs
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.dll
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\refint\MarketLibrary.dll
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.pdb
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\ref\MarketLibrary.dll
+C:\Users\User\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.deps.json
+C:\Users\User\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.runtimeconfig.json
+C:\Users\User\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.dll
+C:\Users\User\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.pdb
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.dll
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\refint\MarketLibrary.dll
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.pdb
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.genruntimeconfig.cache
+C:\Users\User\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\ref\MarketLibrary.dll
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.runtimeconfig.json
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.AssemblyReference.cache
+C:\Users\Ismay_ne14\Desktop\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.genruntimeconfig.cache
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.deps.json
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.runtimeconfig.json
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.dll
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\bin\Debug\net8.0\MarketLibrary.pdb
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.dll
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\refint\MarketLibrary.dll
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.pdb
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\MarketLibrary.genruntimeconfig.cache
+C:\Users\User\Desktop\Entity\MarketApp (3)\MarketApp\MarketLibrary\obj\Debug\net8.0\ref\MarketLibrary.dll

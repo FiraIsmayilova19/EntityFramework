@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\bin\Debug\net8.0\MarketApp.exe
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\bin\Debug\net8.0\MarketApp.deps.json
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\bin\Debug\net8.0\MarketApp.runtimeconfig.json
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\bin\Debug\net8.0\MarketApp.dll
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\bin\Debug\net8.0\MarketApp.pdb
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.dll
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\refint\MarketApp.dll
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.pdb
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\MarketApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Fira.C#\MarketApp\MarketApp\obj\Debug\net8.0\ref\MarketApp.dll

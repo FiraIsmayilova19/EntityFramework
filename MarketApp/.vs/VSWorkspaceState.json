@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AdminPanel",
+    "\\AdminPanel\\StockControlPanel",
+    "\\MarketApp",
+    "\\MarketApp\\Services",
+    "\\MarketApp\\UserControlPanel",
+    "\\MarketLibrary",
+    "\\MarketLibrary\\bin"
+  ],
+  "PreviewInSolutionExplorer": false
+}
